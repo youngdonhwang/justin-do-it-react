@@ -526,3 +526,9 @@ TradeCoinPage.jsx 예제 코드의 handleSubmit 부분에서 createTransaction�
 - 서버 사이드 랜더링 도입하기
 - next.js 서버 배포하기
 - 파이어베이스 DB 연결하기
+
+
+#### ydhwang 작업 2025.02.27
+- npm install react-scripts
+- json-server 기동 : yarn mockserver
+- root의 index.js에서 "import App from './08/CoinApp';" 이부분을 변경하여 test 함
